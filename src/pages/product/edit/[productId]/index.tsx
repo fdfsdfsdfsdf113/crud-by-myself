@@ -48,7 +48,7 @@ const EditPage = () => {
     if (id) {
       try {
         await productApi.edit(id, values);
-        navigate("/");
+        navigate("/product");
       } catch (error) {
         console.log(error);
       }
