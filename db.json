@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "0625",
+      "title": "erer",
+      "desc": "",
+      "price": 0,
+      "sale": 0
+    },
+    {
+      "id": "f4ff",
+      "title": "wererwer",
+      "desc": "werwerwe",
+      "price": 100,
+      "sale": 0
+    },
+    {
+      "title": "dqewqweq",
+      "desc": "23123",
+      "price": 210333,
+      "sale": 30,
+      "id": "f9e8"
+    },
+    {
+      "id": "41f1",
+      "title": "erwerwewewe",
+      "desc": "werwerewrerwrwr",
+      "price": 44,
+      "sale": 4
+    },
+    {
+      "id": "57d4",
+      "title": "dugn",
+      "desc": "121",
+      "price": 122,
+      "sale": 10
+    }
+  ]
+}
